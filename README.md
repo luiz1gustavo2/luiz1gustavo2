@@ -1,4 +1,4 @@
-- 👋 Meu nome é Luiz Gustavo, atualmente sou um estudante de TI, interessado em desenvolvimento com foco no Frontend.
-- 👀 Possuo interesse principalmente em JS, React, Next e UX Design e estou me aprofundando nessas tecnologias.
-- 💞️ A curto prazo pretendo me tornar um Desenvolvedor Junior de Frontend, porém também vou prestar concursos públicos para Analista.
+- 👋 Meu nome é Luiz Gustavo, Formado em Análise e Desenvolvimento de Sistemas e sou interessado em desenvolvimento frontend.
+- 👀 Possuo interesse principalmente em React e UX Design e estou me aprofundando nessas tecnologias.
+- 💞️ A curto prazo pretendo me tornar um Desenvolvedor Junior de Frontend, porém também pretendo prestar concursos públicos para Analista.
 - 📫 Para entrar em contato comigo pode me contatar pelo meu email ---> luiz1gustavo2@hotmail.com
