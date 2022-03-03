@@ -15,4 +15,6 @@
 </div>
 
 ### Caso queira entrar em contato comigo
-### :phone: (61) 98346-5206 || :mailbox: luiz1gustavo2@hotmail.com || <a href="https://www.linkedin.com/in/luiz1gustavo2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> || <a href="https://instagram.com/luiz1gustavo2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> || <a href="https://behance.com/luiz1gustavo2" target="_blank"><img src="https://img.shields.io/badge/-Behance-%230077B5?style=for-the-badge&logo=Behance&logoColor=white" target="_blank">
+### :phone: (61) 98346-5206 || :mailbox: luiz1gustavo2@hotmail.com || <a href="https://www.linkedin.com/in/luiz1gustavo2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> || <a href="https://instagram.com/luiz1gustavo2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"> || <a href="https://behance.net/luiz1gustavo2" target="_blank"><img src="https://img.shields.io/badge/-Behance-%230077B5?style=for-the-badge&logo=Behance&logoColor=white" target="_blank">
+
+  :dog:
