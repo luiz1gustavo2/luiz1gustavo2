@@ -1,7 +1,7 @@
 ## Olá, me chamo Luiz Gustavo, Seja muito bem vindo ao meu perfil do GitHub
 #### Eu sou formado em Análise e Desenvolvimento de Sistemas busco uma oportunidade como Desenvolvedor Fullstack para demonstrar meu potencial e crescer no mercado, eu me desenvolvo na área há 3 anos, estudando frequentemente com muita dedicação. Eu tento não me prender á uma linguagem ou framework, acredito que o ideal seja aprender as boas práticas, os Padrões de Design, possuir uma boa lógica de programação e portanto ser bom resolvendo problemas para que dessa forma seja possível desenvolver códigos eficientes e compreender programas em qualquer linguagem.
 
-#### Sou uma pessoa paciente, focada, que gosta de trabalhar em equpe, proativa e bastante comunicativa, eu sempre gostei de tomar a frente da situação quando dentro de um trabalho em grupo, por isso acredito que eu tenho o necessário para ser um bom líder de projeto o futuro.
+#### Sou uma pessoa paciente, focada, que gosta de trabalhar em equipe, proativa e bastante comunicativa, eu sempre gostei de tomar a frente da situação quando dentro de um trabalho em grupo, por isso acredito que eu tenho o necessário para ser um bom líder de projeto no futuro.
 
 </br>
 
