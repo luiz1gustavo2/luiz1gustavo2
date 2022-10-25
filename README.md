@@ -16,13 +16,13 @@
 
 <div align="center">
 <a href="https://github.com/luiz1gustavo2">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz1gustavo2&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz1gustavo2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz1gustavo2&layout=compact&langs_count=7&theme=dracula" />
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz1gustavo2}&theme=dracula" />
 </div>
   
   </br>
 
   ### <div align="center">Caso queira entrar em contato comigo</div>
-<div align="center">||:phone: (61) 98346-5206 || :mailbox: luiz1gustavo2@hotmail.com || <a href="https://www.linkedin.com/in/luiz1gustavo2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> || <a href="https://instagram.com/luiz1gustavo2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> || <a href="https://behance.net/luiz1gustavo2" target="_blank"><img src="https://img.shields.io/badge/-Behance-%230077B5?style=for-the-badge&logo=Behance&logoColor=white" target="_blank"></a> || <a href="https://codepen.io/luiz1gustavo2" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" target="_blank"></a>||</div>
+<div align="center">||:phone: (61) 98346-5206 || :mailbox: luiz1gustavo2@hotmail.com || <a href="https://www.linkedin.com/in/luiz1gustavo2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> || <a href="https://instagram.com/luiz1gustavo2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> ||</div>
 
 ## <div align="center">:dog: :dog: :dog: </div>
