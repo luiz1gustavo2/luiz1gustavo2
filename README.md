@@ -1,16 +1,8 @@
 ## Olá, me chamo Luiz Gustavo, Seja muito bem vindo ao meu perfil do GitHub
-#### Eu sou formado em Análise e Desenvolvimento de Sistemas busco uma oportunidade como Desenvolvedor Fullstack para demonstrar meu potencial e crescer no mercado, eu me desenvolvo na área há 3 anos, estudando frequentemente com muita dedicação. Eu tento não me prender á uma linguagem ou framework, acredito que o ideal seja aprender as boas práticas, os Padrões de Design, possuir uma boa lógica de programação e portanto ser bom resolvendo problemas para que dessa forma seja possível desenvolver códigos eficientes e compreender programas em qualquer linguagem.
+#### Graduado em Análise e Desenvolvimento de Sistemas, atuo como Desenvolvedor Full Stack, criando soluções escaláveis e de alto impacto. Minha experiência abrange tecnologias como React, PHP (Laravel), Java (Spring Boot), JavaScript, MySQL e Git, permitindo-me desenvolver aplicações performáticas e bem estruturadas.
 
-#### Sou uma pessoa paciente, focada, que gosta de trabalhar em equipe, proativa e bastante comunicativa, eu sempre gostei de tomar a frente da situação quando dentro de um trabalho em grupo, por isso acredito que eu tenho o necessário para ser um bom líder de projeto no futuro.
+#### Tenho um grande interesse por DevOps e automação, buscando compreender e otimizar todo o ciclo de vida do software, desde o desenvolvimento até a implantação e monitoramento. Meu objetivo é criar soluções eficientes, seguras e escaláveis, combinando boas práticas de desenvolvimento com infraestrutura moderna.
 
-</br>
-
-# Stack 
-## Avançado <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40" />
-## Intermediário <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
-## Básico <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40" />
-## Ferramentas <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" />
- 
  </br>
 </br>
 
@@ -24,5 +16,3 @@
 
   ### <div align="center">Caso queira entrar em contato comigo</div>
 <div align="center">||:phone: (61) 98346-5206 || :mailbox: luiz1gustavo2@hotmail.com || <a href="https://www.linkedin.com/in/luiz1gustavo2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> || <a href="https://instagram.com/luiz1gustavo2" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> ||</div>
-
-## <div align="center">:dog: :dog: :dog: </div>
