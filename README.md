@@ -1,18 +1,20 @@
-## Olá, me chamo Luiz Gustavo, Seja muito bem vindo ao meu perfil do GitHub
-#### Graduado em Análise e Desenvolvimento de Sistemas, atuo como Desenvolvedor Full Stack, criando soluções escaláveis e de alto impacto. Possuo experiência com React, PHP (Laravel), Java (Spring Boot), JavaScript, MySQL e Git.
+## Olá, sou Luiz Gustavo 👋  
+Seja bem-vindo ao meu perfil no GitHub.
 
-#### Tenho um grande interesse por DevOps e automação, buscando compreender e otimizar todo o ciclo de vida do software, desde o desenvolvimento até a implantação e monitoramento. Meu objetivo é criar soluções eficientes, seguras e escaláveis, combinando boas práticas de desenvolvimento com infraestrutura moderna.
+Sou **Desenvolvedor Full Stack**, graduado em **Análise e Desenvolvimento de Sistemas**, com mais de **3 anos de experiência** no desenvolvimento de sistemas web voltados a negócio, atuando desde o front-end até o deploy em produção.
 
- </br>
-</br>
+Tenho experiência sólida com **PHP e Laravel**, **Java e Spring Boot**, **JavaScript**, além de frameworks de front-end como **Vue.js e Angular**. Atuo com **bancos de dados relacionais**, integração de **APIs**, versionamento com **Git** e arquitetura orientada a serviços.
 
+Já participei de projetos para **órgãos e setor público**, **empresas privadas** e **plataformas internas**, incluindo soluções nos segmentos de **logística, mobilidade urbana**, sistemas administrativos, **cotação de frete integrada à Jadlog**, rastreamento de encomendas e pagamentos online.
+
+Também possuo interesse e atuação prática em **DevOps e automação**, com experiência em **CI/CD**, **testes automatizados**, **filas de processamento** e noções de **infraestrutura em nuvem (AWS)**, sempre buscando melhorar performance, confiabilidade e escalabilidade das aplicações.
+
+---
+
+### 📫 Contato
 <div align="center">
-<a href="https://github.com/luiz1gustavo2">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiz1gustavo2&layout=compact&langs_count=7&theme=dracula" />
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiz1gustavo2&theme=dracula" />
+📧 <strong>luiz1gustavo2@hotmail.com</strong><br/>
+<a href="https://www.linkedin.com/in/luiz1gustavo2" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 </div>
-  
-  </br>
-
-  ### <div align="center">Caso queira entrar em contato comigo</div>
-<div align="center">|| luiz1gustavo2@hotmail.com || <a href="https://www.linkedin.com/in/luiz1gustavo2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>||</div>
