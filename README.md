@@ -1,5 +1,5 @@
 ## Olá, me chamo Luiz Gustavo, Seja muito bem vindo ao meu perfil do GitHub
-#### Graduado em Análise e Desenvolvimento de Sistemas, atuo como Desenvolvedor Full Stack, criando soluções escaláveis e de alto impacto. Minha experiência abrange tecnologias como React, PHP (Laravel), Java (Spring Boot), JavaScript, MySQL e Git, permitindo-me desenvolver aplicações performáticas e bem estruturadas.
+#### Graduado em Análise e Desenvolvimento de Sistemas, atuo como Desenvolvedor Full Stack, criando soluções escaláveis e de alto impacto. Possuo experiência com React, PHP (Laravel), Java (Spring Boot), JavaScript, MySQL e Git.
 
 #### Tenho um grande interesse por DevOps e automação, buscando compreender e otimizar todo o ciclo de vida do software, desde o desenvolvimento até a implantação e monitoramento. Meu objetivo é criar soluções eficientes, seguras e escaláveis, combinando boas práticas de desenvolvimento com infraestrutura moderna.
 
